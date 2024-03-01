@@ -613,11 +613,6 @@ Hoisting https://developer.mozilla.org/en-US/docs/Glossary/Hoisting
 
 https://codeburst.io/javascript-null-vs-undefined-20f955215a2
 
-https://www.codecademy.com/learn/introduction-to-javascript
-
-Корисні розширення для Visual Studio Code:
-https://t.me/Job_IT_Junior/4168
-
 Про IDE Visual Code: https://youtu.be/nxCLXMBl4e4?si=sLzfzVTBO8-0blNI 
 
 W3school:
@@ -629,6 +624,9 @@ https://www.w3schools.com/js/js_const.asp
 https://www.w3schools.com/js/js_datatypes.asp
 
 --------------------------------------------------------------------------------------------------
+Корисні розширення для Visual Studio Code:
+https://t.me/Job_IT_Junior/4168
+
 5 розширень для підвищення продуктивності під час програмування у Visual Studio Code 💻
 
 ✅ Todo Tree
