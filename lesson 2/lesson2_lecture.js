@@ -802,6 +802,8 @@ https://uk.javascript.info/alert-prompt-confirm
 
 w3school
 https://www.w3schools.com/js/js_type_conversion.asp
+https://www.w3schools.com/js/js_if_else.asp
+https://www.w3schools.com/js/js_switch.asp
 
 javascript info
 https://javascript.info/type-conversions
