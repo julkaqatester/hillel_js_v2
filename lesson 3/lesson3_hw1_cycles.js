@@ -7,10 +7,6 @@ for (let i = 0; i < 8; i++) {
 }
 
 /*Task - 2
-  Implement algorithm which will calculate sum of numbers from 0 to 50 (included) not divisible by 3.
-  Use 3 different cycles: for | while | do..while */
-
-/* Task - 3
   Implement algorithm which will calculate sum of numbers from firstNumber to secondNumber (included)
   
   Use for loop  
@@ -19,7 +15,7 @@ for (let i = 0; i < 8; i++) {
 let firstNumber = -100;
 let secondNumber = 250;
 
-/* Task - 4
+/* Task - 3
   Make a timer that will count from 10 to 0
 
 
@@ -31,10 +27,10 @@ let secondNumber = 250;
   8 seconds left 
 */
 
-/* Task - 5
+/* Task - 4
   Create program to display the following sequence: 7 14 21 28 35 42 49 */
 
-/* Task - 6 
+/* Task - 5 
   implement algorithm which calculates factorial for 
   using for, while, do..while operators
   
@@ -42,7 +38,7 @@ let secondNumber = 250;
   what is factorial: https://www.mathsisfun.com/numbers/factorial.html 
 */
 
-/* Task - 7 
+/* Task - 6 
   implement algorithm filling a bathtub using buckets. 
   we know how many liters the bathtub holds and the capacity of one bucket, 
   but we don't know how many buckets we need. 
