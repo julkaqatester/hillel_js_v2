@@ -144,7 +144,7 @@ for (; ;) {
 можна використовувати continue
 */
 
-/* var i = 0;
+var i = 0;
 for (; ;) {
     if (i === 3) {
         console.log("Дійшли до 3");
@@ -153,7 +153,7 @@ for (; ;) {
     console.log(i);
     i++;
 }
-console.log("Після закінчення циклу i = " + i); */
+console.log("Після закінчення циклу i = " + i);
 
 /* --- continue  --— це “полегшена версія” break. Вона не зупиняє весь цикл. 
 Натомість, вона зупиняє поточну ітерацію і починає виконання циклу спочатку з наступної ітерації (якщо умова циклу досі вірна).
@@ -336,7 +336,7 @@ console.log(result); // Але ми тут не бачимо нашу змінн
 */
 
 // Розглянемо що повертає функція за замовчуванням
-/* let c = 5;
+let c = 5;
 function squareAreaCalculation() {
     let result = c * c;
 }
@@ -347,8 +347,8 @@ function squareAreaCalculation() {
     return result;
     // return result = c * c;
 }
-let result = squareAreaCalculation();
-console.log(result); */
+var result = squareAreaCalculation();
+console.log(result);
 
 /* Директива return може бути в будь-якому місці функції.
  Коли виконання досягає цієї директиви, функція зупиняється, і в код, який викликав цю функцію, 
@@ -430,12 +430,12 @@ checkPermission(..) // перевіряє доступ, повертає true/fa
 */
 
 
-/* function squareAreaCalculation(side) {
+function squareAreaCalculation(side) {
     return side * side;
 }
 
 let result = squareAreaCalculation(5);
-console.log(result); */
+console.log(result);
 
 
 // А що буде якщо я не передам нічого
